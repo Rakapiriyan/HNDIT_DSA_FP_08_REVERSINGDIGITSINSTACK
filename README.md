@@ -1,8 +1,9 @@
 **Author Name**: P.RAKAPIRIYAN 
+
 **Index Number**: BAT/IT/2022/P/08 
 
 ## Project Description
-This project counts the number of even and odd elements in an integer array.
+This project Reversing Digits Using Stack.
 
 ## How to Compile and Run
 1. Open a terminal.
@@ -11,7 +12,9 @@ This project counts the number of even and odd elements in an integer array.
    ReversingDigitsUsingStack.java
 4. Run the program using the command:  
    ReversingDigitsUsingStack
-   ![Screenshot (6)](https://github.com/user-attachments/assets/448a8fac-9ab7-465e-bf6c-8b2d421a6c33)
+   
 
 
 ## Expected Output (screenshots)
+![Screenshot (6)](https://github.com/user-attachments/assets/c0bf9ec0-7a42-4b11-9bae-11a8a4e478fd)
+
